@@ -1374,7 +1374,9 @@ a img.aligncenter {
 }
 
 .testimonial img {
-    max-width: 55px;
+  max-width: 150px;
+  height: 150px;
+  object-fit: cover;
 }
 
 .testimonial small {
